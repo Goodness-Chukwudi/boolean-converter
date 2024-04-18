@@ -1,0 +1,25 @@
+{
+  "name": "boolean-converter",
+  "version": "1.0.0",
+  "description": "A simple package that converts possible boolean values to boolean",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goodness-Chukwudi/boolean-converter.git"
+  },
+  "keywords": [
+    "boolean",
+    "converter",
+    "convert",
+    "cast"
+  ],
+  "author": "Goodness Chukwudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goodness-Chukwudi/boolean-converter/issues"
+  },
+  "homepage": "https://github.com/Goodness-Chukwudi/boolean-converter#readme"
+}
